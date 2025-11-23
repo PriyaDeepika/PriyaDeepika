@@ -47,6 +47,18 @@
 
 ---
 
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDeepika&show_icons=true&theme=tokyonight" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PriyaDeepika&theme=tokyonight" width="450"/>
+</p>
+
+---
+
 ## ⚡ Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A8FF)](https://linkedin.com/in/ponnapatipriyadeepika)
