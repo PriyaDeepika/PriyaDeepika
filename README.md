@@ -1,4 +1,8 @@
-![banner](./Github%20readme%20banner.png)
+
+<p align="center">
+  <img src="./Github%20readme%20banner.png" />
+</p>
+
 
 
 # 🌙 Heyy, I'm Priya Deepika ✨  
