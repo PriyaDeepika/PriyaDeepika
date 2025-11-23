@@ -1,4 +1,5 @@
-![banner](./assets/banner.png)
+![banner](./Github%20readme%20banner.png)
+
 
 # 🌙 Heyy, I'm Priya Deepika ✨  
 *(currently glitching between AI, creativity, and random motivation bursts ⚡🤖🎨)*  
