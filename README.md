@@ -5,18 +5,14 @@
 
 
 
-# 🌙 Heyy, I'm Priya Deepika ✨  
+# Heyy 👋, I'm Priya Deepika 
 *(currently glitching between AI, creativity, and random motivation bursts ⚡🤖🎨)*  
 
 ---
 
-## 💫 About Me
-- 🎓 B.Tech AI & Data Science student  
-- 🧠 Learning Python & the Data Analysis stack  
-- 🎨 Love making posters  
-- 🌱 Trying to stay consistent with learning  
-- ☕ Coffee + Jupyter Notebook = survival combo  
-
+## About Me
+ - I’m currently learning Python, Data Analysis, and building fun beginner-friendly projects.  
+ - I love designing posters, exploring tech, and slowly leveling up my coding skills.
 ---
 
 ## 🛠 Tools & Things I'm Learning
@@ -32,7 +28,7 @@
 
 ## 🌈 Fun Facts
 - I talk to my code like it understands me 😭  
-- My posters are aesthetic, my code… depends on the day  
+- I don’t write bugs. Bugs just appear near me.  
 - I use emojis everywhere (even where I shouldn’t 😶)  
 - Learning Python feels like leveling up in a game 🎮🔥  
 
@@ -40,14 +36,20 @@
 
 ## ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDeepika&show_icons=true&theme=tokyonight" width="450"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PriyaDeepika&theme=tokyonight" width="450"/>
-</p>
+  <img src="https://streak-stats.demolab.com?user=PriyaDeepika&theme=tokyonight" width="430"/>
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDeepika&show_icons=true&theme=tokyonight&hide_border=true" width="430"/>
+
+</div>
 
 ---
 
-⭐ *Thanks for visiting! If you vibe with me, drop a star 💗✨*
+<div align="center">
+
+✨ Thanks for visiting! If you vibe with me, drop a star ⭐
+
+</div>
