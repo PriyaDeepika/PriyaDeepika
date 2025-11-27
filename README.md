@@ -13,7 +13,7 @@
 ## 💫 About Me
 - 🎓 B.Tech AI & Data Science student  
 - 🧠 Learning Python & the Data Analysis stack  
-- 🎨 Love making posters and aesthetic designs  
+- 🎨 Love making posters  
 - 🌱 Trying to stay consistent with learning  
 - ☕ Coffee + Jupyter Notebook = survival combo  
 
@@ -33,9 +33,7 @@
 ## 💕 My Interests
 - AI & Data Science  
 - Data Analysis & Visualization  
-- Poster Designing / Creative Work 🎨  
-- Making aesthetic notes  
-- Slow & steady learning ✨  
+- Poster Designing / Creative Work 🎨 
 
 ---
 
@@ -56,13 +54,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PriyaDeepika&theme=tokyonight" width="450"/>
 </p>
-
----
-
-## ⚡ Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00A8FF)](https://linkedin.com/in/ponnapatipriyadeepika)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF3131)](mailto:ppdeepu.123@gmail.com)
 
 ---
 
