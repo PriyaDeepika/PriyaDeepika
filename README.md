@@ -30,13 +30,6 @@
 
 ---
 
-## 💕 My Interests
-- AI & Data Science  
-- Data Analysis & Visualization  
-- Poster Designing / Creative Work 🎨 
-
----
-
 ## 🌈 Fun Facts
 - I talk to my code like it understands me 😭  
 - My posters are aesthetic, my code… depends on the day  
