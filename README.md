@@ -42,7 +42,7 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDeepika&show_icons=true&theme=tokyonight&hide_border=true" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDeepika&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="430"/>
 
 </div>
 
