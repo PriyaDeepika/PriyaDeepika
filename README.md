@@ -5,13 +5,12 @@
 <h1 align="center">Heyy 👋 I'm Priya Deepika</h1>
 
 <p align="center">
-🎓 AI & Data Science Student <br>
-🤖 Exploring Artificial Intelligence, Data Analytics & Machine Learning <br>
-🎨 Designer who loves blending creativity with technology
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Generative+AI+Enthusiast;Prompt+Engineering+Explorer;Building+AI-Powered+Projects;Designer+Who+Loves+Technology" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PriyaDeepika&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=PriyaDeepika&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge" />
 </p>
 
 ---
@@ -19,18 +18,18 @@
 ## ✨ About Me
 
 - 🎓 Pursuing Artificial Intelligence & Data Science
-- 🐍 Learning Python and building projects step by step
-- 📊 Exploring Data Analysis with Pandas and NumPy
+- 🤖 Currently exploring Generative AI and AI-powered applications
+- 🧠 Interested in Machine Learning, LLMs, and AI Agents
 - 🎨 Passionate about graphic design and visual storytelling
-- 🚀 Always curious about creating things that blend technology and creativity
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Exploring
 
-- Python Programming
-- Data Analysis
+- Generative AI
 - Machine Learning Fundamentals
+- Python Development
+- Data Analysis with Pandas & NumPy
 - Git & GitHub
 - Data Structures & Algorithms
 
@@ -39,29 +38,27 @@
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF00FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FF5F1F)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00AFFF)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FFFF)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FFFF)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00FFFF)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00FFFF)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFFF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FFFF)
 
 ---
 
 ## 🎨 Design Portfolio
 
-I enjoy creating posters, branding concepts, social media creatives, and visual designs.
+When I'm not coding, you'll probably find me designing posters, creating visual content, or experimenting with creative ideas.
 
 🔗 **Portfolio:** https://priyadeepika.github.io/design-portfolio/
 
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyaDeepika&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PriyaDeepika&theme=tokyonight&hide_border=true" />
@@ -79,11 +76,9 @@ I enjoy creating posters, branding concepts, social media creatives, and visual 
 - I don't write bugs. Bugs just appear near me.
 - I use emojis everywhere (even where I shouldn't 😶)
 - Designing posters is my creative escape 🎨
-- Learning Python feels like leveling up in a game 🎮🔥
 
 ---
 
 <p align="center">
 ✨ Thanks for visiting my profile! ✨
-<br><br>
 </p>
