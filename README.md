@@ -61,11 +61,7 @@ When I'm not coding, you'll probably find me designing posters, creating visual 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PriyaDeepika&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaDeepika&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.vercel.app?user=PriyaDeepika&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
