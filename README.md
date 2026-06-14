@@ -64,6 +64,10 @@ When I'm not coding, you'll probably find me designing posters, creating visual 
   <img src="https://streak-stats.vercel.app?user=PriyaDeepika&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaDeepika&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" />
+</p>
+
 ---
 
 ## ☕ Fun Facts
